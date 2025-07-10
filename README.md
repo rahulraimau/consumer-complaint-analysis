@@ -13,3 +13,6 @@ The generated HTML is self-contained, so you can push it to GitHub Pages for an 
 
 ## Data
 The file `Excel 2 - mod_Consumer complaint analysis.xlsx` must be present in the same directory.
+## 🌐 Live Dashboard
+
+[🔗 Click here to view the Consumer Complaint Dashboard](https://rahulraimau.github.io/consumer-complaint-analysis/enhanced_consumer_dashboard.html)
